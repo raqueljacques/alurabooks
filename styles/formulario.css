@@ -27,6 +27,11 @@
     margin-left: 1em;
 }
 
+.erro > p {
+    color: #a91b1b;
+    margin-top: 3px;
+}
+
 .campo__escrita {
     border: 1px solid var(--azul);
     border-radius: 24px;
